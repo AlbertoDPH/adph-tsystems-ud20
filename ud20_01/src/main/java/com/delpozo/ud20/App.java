@@ -1,4 +1,4 @@
-package com.delpozo.ud20_01;
+package com.delpozo.ud20;
 
 /**
  * Hello world!
